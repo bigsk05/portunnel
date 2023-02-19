@@ -1,0 +1,16 @@
+{
+  "forwardings": [
+    {
+      "local_address": "127.0.0.1",
+      "local_port": 9000,
+      "remote_address": "example.com",
+      "remote_port": 80
+    },
+    {
+      "local_address": "[::1]",
+      "local_port": 9001,
+      "remote_address": "example.com",
+      "remote_port": 80
+    }
+  ]
+}
